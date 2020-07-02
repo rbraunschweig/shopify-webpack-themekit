@@ -1,9 +1,10 @@
 {
   "extends": [
-    "plugin:shopify/esnext"
+    "plugin:@shopify/esnext"
   ],
   "env": {
-    "jest": true
+    "jest": true,
+    "node": true,
   },
   "rules": {
     "babel/no-invalid-this": 0,

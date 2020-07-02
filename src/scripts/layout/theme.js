@@ -1,8 +1,8 @@
-/*================ Styles ================*/
-import '../../styles/theme.scss';
+/* ================ Styles ================ */
+// import '../../styles/theme.scss';
 import '../../styles/theme.scss.liquid';
 
-/*================ Scripts ===============*/
+/* ================ Scripts =============== */
 
 // Lazysizes
 import 'lazysizes/plugins/object-fit/ls.object-fit';
@@ -15,5 +15,6 @@ import 'lazysizes/plugins/blur-up/ls.blur-up';
 
 // jQuery
 import $ from 'jquery';
+
 window.jQuery = $;
 window.$ = $;

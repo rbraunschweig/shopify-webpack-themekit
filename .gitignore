@@ -1,5 +1,4 @@
-/.idea
-/node_modules/
-/src/
-/dist/
-/config.js
+config.js
+dist/
+node_modules/
+src/assets/
